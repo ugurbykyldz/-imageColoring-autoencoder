@@ -1,4 +1,3 @@
 # -imageColoring-autoencoder
-Autoencoder
-It is planned to improve the model to give better results.
+Project updates continue...
 ![outcome](https://github.com/ugurbykyldz/-imageColoring-autoencoder/blob/master/images.png?raw=true) 
